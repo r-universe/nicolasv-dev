@@ -8,6 +8,3 @@
 [submodule "drimmR"]
 	path = drimmR
 	url = https://github.com/cran/drimmR
-[submodule "smmR"]
-	path = smmR
-	url = https://github.com/cran/smmR
